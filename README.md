@@ -1,8 +1,9 @@
-<div class="container">
-  <h1>Hi 👋, I'm Akshay Modi</h1>
-  <h3>A passionate 4th year CSE student from SRM Institute of Science and Technology. I wish to work in a dynamic organization that will contribute to my professional and personal growth. Also, I am willing to explore a wide variety of opportunities that can help me to achieve my goals.</h3>
 
-  <img alt="coding" display="block" height="500" align = "center" width="80%" margin-left="auto" margin-right = "auto" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
+  <h1 align="center">Hi 👋, I'm Akshay Modi</h1>
+ <h3 align="center">A passionate 4th year CSE student from SRM Institute of Science and technology. I wish to work in a dynamic organization that will contribute to my professional and personal growth. Also, I am willing to explore a wide variety of opportunities that can help me to achieve my goals.</h3>
+
+
+ <img align="center" alt="coding" display="flex" justify-content="center" align-items="center" height="600" width="100%" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
 
   <ul>
     <li>🌱 I’m currently learning <strong>React</strong></li>
