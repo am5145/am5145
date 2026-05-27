@@ -4,9 +4,8 @@
 <a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="75%" width="375px" /></a>
 A passionate 4th year CSE student from SRM Institute of Science and technology. I wish to work in a dynamic organization that will contribute to my professional and personal growth. Also, I am willing to explore a wide variety of opportunities that can help me to achieve my goals.
 
-Skills: C / C++ / Python / HTML / CSS / Java Script / Nodejs / Artificial Intelligence / Postman 
+Skills: Java / SpringBoot / REST APIs / Microservices / Spring Security / JPA/Hibernate / React / HTML / CSS / Java Script / MySql / Artificial Intelligence / Postman 
 
-- 🌱 I’m currently learning react and Data Structures 
 - 👯 I’m looking to collaborate on Development or Open source projects 
 
 
