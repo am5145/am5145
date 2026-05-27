@@ -2,7 +2,7 @@
    ### < Hello World /> <img src="https://rb.gy/8czkyq" width="32px"> My Name is **Akshay Modi**
 
 <a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="75%" width="375px" /></a>
-A passionate 4th year CSE student from SRM Institute of Science and technology. I wish to work in a dynamic organization that will contribute to my professional and personal growth. Also, I am willing to explore a wide variety of opportunities that can help me to achieve my goals.
+Backend Engineer with hands-on production experience in Java and Spring Boot, building and maintaining enterprise-scale systems. Designed and shipped a cross-browser developer tool used in production, reducing manual QA effort by ~70%. Extended and delivered features on live production Java/Spring Boot applications. Strong debugging instincts — resolved critical system failures unaddressed for 4+ years. Looking to apply strong backend engineering and problem-solving skills to build scalable systems in a product-driven environment. 
 
 Skills: Java / SpringBoot / REST APIs / Microservices / Spring Security / JPA/Hibernate / React / HTML / CSS / Java Script / MySql / Artificial Intelligence / Postman 
 
